@@ -1,5 +1,5 @@
 # Software Engineering and Design: Numeric Overflow Coding Activity (C++)
-This repository contains the original and enhanced versions of my Numeric Overflow Coding Activity. The artifact began as a CS 405 Secure Coding assignment focused on detecting numeric overflow and underflow in C++. The original implementation was a single monolithic `.cpp` file with basic arithmetic functions and only partial protections against unsafe behavior.
+This repository contains the original and enhanced versions of my Numeric Overflow Coding Activity. The artifact began as a CS-405 Secure Coding assignment focused on detecting numeric overflow and underflow in C++. The original implementation was a single monolithic `.cpp` file with basic arithmetic functions and only partial protections against unsafe behavior.
 
 ## Overview
 
@@ -16,17 +16,17 @@ The enhancement reflects a stronger engineering approach: each arithmetic functi
 - Cleaner structure that supports testing and future extension  
 
 ## Repository Structure
-/original
-The initial single‑file implementation from CS 405 Secure Coding
+`/original`
+The initial single‑file implementation from CS-405 Secure Coding
 
-/enhanced
+`/enhanced`
 Refactored version featuring the new SafeArithmetic module
 
-/zips
+`/zips`
 Full project ZIPs for SNHU submission (original and enhanced)
 
 ## Related Artifacts
-Additional documentation, narrative, and demo video for this enhancement are available in my portfolio: https://sarahhayduk.github.io/
+Additional documentation, narrative, and demo video for this enhancement are available in my ePortfolio: https://sarahhayduk.github.io/
 
 ## Technologies Used
 
